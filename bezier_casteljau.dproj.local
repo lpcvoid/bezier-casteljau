@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.894,=C:\Users\Swoosh\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.119,=C:\Users\Swoosh\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014.01.25 00:31:49.185,=C:\Users\Swoosh\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014.01.25 00:32:22.963,C:\Projects\computergrafik_learning\bezier_casteljau\main.dfm=C:\Users\Swoosh\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2014.01.25 00:32:22.963,C:\Projects\computergrafik_learning\bezier_casteljau\main.pas=C:\Users\Swoosh\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014.01.25 00:32:33.060,C:\Projects\computergrafik_learning\bezier_casteljau\bezier_casteljau.dproj=C:\Users\Swoosh\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
