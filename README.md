@@ -6,4 +6,4 @@ Should compile out of the box with any delphi version newer than a couple of yea
 
 Click anywhere you wish, three times, and the program will generate a nice function for you.
 
-[Screenshot](http://i.snag.gy/ZpCfu.jpg)
+![Screenshot](http://i.snag.gy/ZpCfu.jpg)
